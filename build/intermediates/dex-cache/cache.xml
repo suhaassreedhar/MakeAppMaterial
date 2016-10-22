@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/home/ravi/Nanodegree-Projects/Project4/xyzreader/XYZReader/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/23.1.1/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="09c5e804bc67fc0580360043dff067df574a60d4">
+        <dex dex="/home/ravi/Nanodegree-Projects/Project4/xyzreader/XYZReader/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-recyclerview-v7-23.1.1_4e7f730dd59acc7efef4697ad45ee1ab3f16349c/classes.dex" />
+    </item>
+    <item
+        jar="/home/ravi/Nanodegree-Projects/Project4/xyzreader/XYZReader/build/intermediates/exploded-aar/com.android.support/design/23.1.1/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="379471b2bd17d9737c050345c08e8c7d16589784">
+        <dex dex="/home/ravi/Nanodegree-Projects/Project4/xyzreader/XYZReader/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-design-23.1.1_6b1b6dad64eb4a3ce74b3338aeb96dac931b3c86/classes.dex" />
+    </item>
+    <item
+        jar="/home/ravi/Nanodegree-Projects/Project4/xyzreader/XYZReader/libs/volley.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="c68094cbd011a3f9dccbfe16e77a2cf43622e277">
+        <dex dex="/home/ravi/Nanodegree-Projects/Project4/xyzreader/XYZReader/build/intermediates/transforms/dex/debug/folders/1000/2/volley_3505f4d35eebfec25bc4282664cbc0055e0087b0/classes.dex" />
+    </item>
+    <item
+        jar="/home/ravi/Nanodegree-Projects/Project4/xyzreader/XYZReader/build/intermediates/exploded-aar/com.android.support/support-v13/23.1.1/jars/libs/internal_impl-23.1.1.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="f4d7a07120e76988f3a15403838d323c2400db83">
+        <dex dex="/home/ravi/Nanodegree-Projects/Project4/xyzreader/XYZReader/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-23.1.1_32be5ceaf66ba78b0e8e6d718448ed2bfc43631a/classes.dex" />
+    </item>
+    <item
+        jar="/home/ravi/Nanodegree-Projects/Project4/xyzreader/XYZReader/build/intermediates/exploded-aar/com.android.support/support-v4/23.1.1/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="6cbc7773921fcfedbe55657578f0cbfe614778dc">
+        <dex dex="/home/ravi/Nanodegree-Projects/Project4/xyzreader/XYZReader/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-23.1.1_eaec169d816045b7a16a8f051eb384f60b7fbefb/classes.dex" />
+    </item>
+    <item
+        jar="/home/ravi/Nanodegree-Projects/Project4/xyzreader/XYZReader/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="c7710e16af9a953cc50522ff4e65e091edbd1435">
+        <dex dex="/home/ravi/Nanodegree-Projects/Project4/xyzreader/XYZReader/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_01abba7845d9dac9381b9d42af5511b60aa07088/classes.dex" />
+    </item>
+    <item
+        jar="/home/ravi/Nanodegree-Projects/Project4/xyzreader/XYZReader/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="5c5699834e9722f1c288fea2de82725d078ba127">
+        <dex dex="/home/ravi/Nanodegree-Projects/Project4/xyzreader/XYZReader/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-23.1.1_99b6ce89c756b0584a398d11d4fcd2de6de77583/classes.dex" />
+    </item>
+    <item
+        jar="/home/ravi/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.6.0/98476622f10715998eacf9240d6b479f12c66143/okio-1.6.0.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="98476622f10715998eacf9240d6b479f12c66143">
+        <dex dex="/home/ravi/Nanodegree-Projects/Project4/xyzreader/XYZReader/build/intermediates/transforms/dex/debug/folders/1000/10/okio-1.6.0_f5596e51cddb6a821440d0998eb68e38114e4b2d/classes.dex" />
+    </item>
+    <item
+        jar="/home/ravi/Nanodegree-Projects/Project4/xyzreader/XYZReader/build/intermediates/exploded-aar/com.android.support/support-v4/23.1.1/jars/libs/internal_impl-23.1.1.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="a4de9c81ae239414e1ed0f86441b02abaf29bca9">
+        <dex dex="/home/ravi/Nanodegree-Projects/Project4/xyzreader/XYZReader/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-23.1.1_50416b32f6f1f784e1d26df16be57f5d211c3731/classes.dex" />
+    </item>
+    <item
+        jar="/home/ravi/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/23.1.1/support-annotations-23.1.1.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="8d680ba5a623724d1fb0e81c36a790f023a6cede">
+        <dex dex="/home/ravi/Nanodegree-Projects/Project4/xyzreader/XYZReader/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-23.1.1_60fb476ed4f8d2ece0a8235e7e79516300c99bf0/classes.dex" />
+    </item>
+    <item
+        jar="/home/ravi/Nanodegree-Projects/Project4/xyzreader/XYZReader/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="fd3680906f113a116e1f8db85b8fbb3be1851c00">
+        <dex dex="/home/ravi/Nanodegree-Projects/Project4/xyzreader/XYZReader/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_319b343c4e58a2748eb37ba8f604682bb809fc1a/classes.dex" />
+    </item>
+    <item
+        jar="/home/ravi/Nanodegree-Projects/Project4/xyzreader/XYZReader/build/intermediates/exploded-aar/com.android.support/cardview-v7/23.1.1/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="5e412e954a24c5310a459c09870e4e2081aceb03">
+        <dex dex="/home/ravi/Nanodegree-Projects/Project4/xyzreader/XYZReader/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-cardview-v7-23.1.1_225a20702e2104bb1fb50cd12403ef442028a0e9/classes.dex" />
+    </item>
+    <item
+        jar="/home/ravi/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp/3.1.2/7052283359001bb108753cb0583a887d3bf94c82/okhttp-3.1.2.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="7052283359001bb108753cb0583a887d3bf94c82">
+        <dex dex="/home/ravi/Nanodegree-Projects/Project4/xyzreader/XYZReader/build/intermediates/transforms/dex/debug/folders/1000/10/okhttp-3.1.2_348cc520b47d7ee5da7d8aff020a5497a32cc4d0/classes.dex" />
+    </item>
+    <item
+        jar="/home/ravi/Nanodegree-Projects/Project4/xyzreader/XYZReader/build/intermediates/exploded-aar/com.android.support/support-v13/23.1.1/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="5ddf5f4817565c9db82613c16093f76640a54e15">
+        <dex dex="/home/ravi/Nanodegree-Projects/Project4/xyzreader/XYZReader/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v13-23.1.1_0af350ee44f7ed424b732a36c92829a0c6d5e7a4/classes.dex" />
+    </item>
+    <item
+        jar="/home/ravi/Nanodegree-Projects/Project4/xyzreader/XYZReader/build/intermediates/exploded-aar/com.android.support/palette-v7/23.1.1/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="a978650837318cf056bf3383ff02fe7a3b891f20">
+        <dex dex="/home/ravi/Nanodegree-Projects/Project4/xyzreader/XYZReader/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-palette-v7-23.1.1_c0340ecffadfa5a4ec36a92f936ccb84453351dc/classes.dex" />
+    </item>
+
+</items>
